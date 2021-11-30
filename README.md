@@ -66,7 +66,7 @@
 
 ---
 
-##### forked from [codeSTACKr](http://github.com/codestackr)
+##### [©AUPAX 2021 All Rights Reserved](http://github.com/aupax)
 
 [website]: https://aupaxd.blogspot.com
 [course]: http://replit.com/aupax
